@@ -1,0 +1,9 @@
+numpy==1.21.6
+importlib-metadata
+typing_extensions
+scipy
+argparse
+sagemaker-training
+sagemaker
+/gymnasium
+/dynamics
